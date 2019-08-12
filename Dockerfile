@@ -15,4 +15,4 @@ EXPOSE 3000
 
 CMD [ "node", "server.js" ]
 
-tes jenkins samid
+tes jenkins1
