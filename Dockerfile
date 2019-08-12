@@ -15,4 +15,4 @@ EXPOSE 3000
 
 CMD [ "node", "server.js" ]
 
-tes jenkins1
+tes jenkins2
